@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on DevMT - Comunidade de Desenvolvedores de Mato Grosso</title>
+    <link>http://replace-this-with-your-hugo-site.com/event/</link>
+    <description>Recent content in Events on DevMT - Comunidade de Desenvolvedores de Mato Grosso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 30 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HackInArena 2016</title>
+      <link>http://replace-this-with-your-hugo-site.com/event/hackinarena-2016/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/event/hackinarena-2016/</guid>
+      <description>
+
+&lt;h4 id=&#34;o-evento:beb78216493832180b892c881a677602&#34;&gt;O Evento&lt;/h4&gt;
+
+&lt;p&gt;30 de Abril e 01 de Maio, Arena Pantanal, Cuiabá&lt;/p&gt;
+
+&lt;h4 id=&#34;mais-informações:beb78216493832180b892c881a677602&#34;&gt;Mais informações&lt;/h4&gt;
+
+&lt;p&gt;Veja mais detalhes acessando o site do evento em &lt;a href=&#34;http://hackinarena.com.br/&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FrontInCuiaba 2016</title>
+      <link>http://replace-this-with-your-hugo-site.com/event/frontincuiaba-2016/</link>
+      <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/event/frontincuiaba-2016/</guid>
+      <description>
+
+&lt;h4 id=&#34;o-evento:292c0f41deaa2b97e56a07f941175146&#34;&gt;O Evento&lt;/h4&gt;
+
+&lt;p&gt;O FrontInCuiabá é um evento que nasceu com o intuito de propagar conhecimento e as novas técnicas para desenvolvimento web. Fazemos parte de um movimento que acontece por muitas cidades brasileiras que por onde passa é um grande sucesso. Abordamos especialmente assuntos Front-End Web e Mobile.&lt;/p&gt;
+
+&lt;h4 id=&#34;mais-informações:292c0f41deaa2b97e56a07f941175146&#34;&gt;Mais informações&lt;/h4&gt;
+
+&lt;p&gt;Veja mais detalhes acessando o site do evento em &lt;a href=&#34;http://frontincuiaba.com.br/&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FrontInCuiaba 2015</title>
+      <link>http://replace-this-with-your-hugo-site.com/event/frontincuiaba-2015/</link>
+      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/event/frontincuiaba-2015/</guid>
+      <description>
+
+&lt;h4 id=&#34;o-evento:fe489912ff0c19351104803f0ca44389&#34;&gt;O Evento&lt;/h4&gt;
+
+&lt;p&gt;O FrontInCuiabá é um evento que nasceu com o intuito de propagar conhecimento e as novas técnicas para desenvolvimento web. Fazemos parte de um movimento que acontece por muitas cidades brasileiras que por onde passa é um grande sucesso. Abordamos especialmente assuntos Front-End Web e Mobile.&lt;/p&gt;
+
+&lt;h4 id=&#34;mais-informações:fe489912ff0c19351104803f0ca44389&#34;&gt;Mais informações&lt;/h4&gt;
+
+&lt;p&gt;Veja mais detalhes acessando o site do evento em &lt;a href=&#34;http://frontincuiaba.com.br/&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
