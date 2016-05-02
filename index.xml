@@ -2,69 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevMT - Comunidade de Desenvolvedores de Mato Grosso</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>http://devmt.com.br/</link>
     <description>Recent content on DevMT - Comunidade de Desenvolvedores de Mato Grosso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 04 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Meetup React Native</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/meetup-react-native/</link>
-      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/post/meetup-react-native/</guid>
-      <description>
-
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type
-specimen book.  It has survived not only five centuries, but also the leap into
-electronic typesetting, remaining essentially unchanged. It was popularised in
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.&lt;/p&gt;
-
-&lt;h3 id=&#34;lorem-ipsum:e3a775d2f9204cea67bb50feec7de274&#34;&gt;Lorem Ipsum&lt;/h3&gt;
-
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type
-specimen book. It has survived not only five centuries, but also the leap into
-electronic typesetting, remaining essentially unchanged. It was popularised in
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.&lt;/p&gt;
-
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type
-specimen book. It has survived not only five centuries, but also the leap into
-electronic typesetting, remaining essentially unchanged. It was popularised in
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.&lt;/p&gt;
-
-&lt;h3 id=&#34;lorem-ipsum-1:e3a775d2f9204cea67bb50feec7de274&#34;&gt;Lorem Ipsum&lt;/h3&gt;
-
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type
-specimen book. It has survived not only five centuries, but also the leap into
-electronic typesetting, remaining essentially unchanged. It was popularised in
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Mon, 30 May 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://devmt.com.br/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HackInArena 2016</title>
-      <link>http://replace-this-with-your-hugo-site.com/event/hackinarena-2016/</link>
+      <link>http://devmt.com.br/event/hackinarena-2016/</link>
       <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/event/hackinarena-2016/</guid>
+      <guid>http://devmt.com.br/event/hackinarena-2016/</guid>
       <description>
 
 &lt;h4 id=&#34;o-evento:beb78216493832180b892c881a677602&#34;&gt;O Evento&lt;/h4&gt;
@@ -79,10 +29,10 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     
     <item>
       <title>FrontInCuiaba 2016</title>
-      <link>http://replace-this-with-your-hugo-site.com/event/frontincuiaba-2016/</link>
+      <link>http://devmt.com.br/event/frontincuiaba-2016/</link>
       <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/event/frontincuiaba-2016/</guid>
+      <guid>http://devmt.com.br/event/frontincuiaba-2016/</guid>
       <description>
 
 &lt;h4 id=&#34;o-evento:292c0f41deaa2b97e56a07f941175146&#34;&gt;O Evento&lt;/h4&gt;
@@ -96,21 +46,48 @@ including versions of Lorem Ipsum.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Meetup - Introdução ao Angular 2</title>
+      <link>http://devmt.com.br/post/meetup-angular-ii/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://devmt.com.br/post/meetup-angular-ii/</guid>
+      <description>
+
+&lt;h2 id=&#34;introdução-ao-angular-2:28a84450358e24f35836f7310092cdc9&#34;&gt;Introdução ao Angular 2&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://angular.io/resources/images/logos/standard/shield-large.png&#34; alt=&#34;ng2&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Com todo o hype do crescimento de web applications nestes últimos anos, a nova versão deste super framework também está dando o que falar com mudanças incríveis que ele traz. Change detection? Syntax sugar? ES6? Native APIs? O que não falta são novidades. Venha prestigiar todos estes assuntos neste meetup de Introdução ao Angular 2, que tal?&lt;/p&gt;
+
+&lt;h3 id=&#34;local:28a84450358e24f35836f7310092cdc9&#34;&gt;Local&lt;/h3&gt;
+
+&lt;p&gt;Arena Pantanal, Setor Norte Nível 30, entrada pelo portão 2. &lt;a href=&#34;http://i.imgur.com/U5TlbDY.jpg&#34;&gt;Veja no mapa&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;dhyego-fernando:28a84450358e24f35836f7310092cdc9&#34;&gt;Dhyego Fernando&lt;/h3&gt;
+
+&lt;p&gt;Full stack dev, apaixonado no que faz, é fissurado em solucionar problemas com boas práticas e um bom código. Sempre buscou enfrentar novos desafios, conhecer e utilizar novas tecnologias, pois, acredita que um bom desenvolvedor não deve ser rotulado.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dhyegofernando&#34;&gt;@dhyegofernando&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sobre </title>
-      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <link>http://devmt.com.br/about/</link>
       <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <guid>http://devmt.com.br/about/</guid>
       <description>&lt;p&gt;Este grupo é voltado para trocas de ideais entre profissionais e estudantes da área de tecnologia. Convidamos a todos os entusiastas ou não, seja de qualquer segmento tecnológico; desenvolvimento de software, infraestrutura ou suporte para trocas de experiências, conhecimento, aprender e ensinar. Buscamos melhorar o relacionamento entre os profissionais de tecnologia da nossa região.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Patrocínio </title>
-      <link>http://replace-this-with-your-hugo-site.com/support/</link>
+      <link>http://devmt.com.br/support/</link>
       <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/support/</guid>
+      <guid>http://devmt.com.br/support/</guid>
       <description>
 
 &lt;h4 id=&#34;patrocínio:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;Patrocínio&lt;/h4&gt;
@@ -159,41 +136,42 @@ Mostrar a sua empresa para um público grande e interessado em ajudar pode traze
     </item>
     
     <item>
-      <title>Awesome Collaborative Project</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/collaborativeproject/</link>
-      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      <title>Meetup - React Native First Impressions</title>
+      <link>http://devmt.com.br/post/meetup-react-native/</link>
+      <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/collaborativeproject/</guid>
-      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
+      <guid>http://devmt.com.br/post/meetup-react-native/</guid>
+      <description>
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;
-&lt;/p&gt;
+&lt;h2 id=&#34;react-native-first-impressions:e3a775d2f9204cea67bb50feec7de274&#34;&gt;React Native - First Impressions&lt;/h2&gt;
 
-&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Useful Code Snippet</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/snippet/</link>
-      <pubDate>Mon, 05 Oct 2015 02:24:15 +0000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/snippet/</guid>
-      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
+&lt;p&gt;React Native possibilita aos desenvolvedores a construção de aplicativos de alto nível para plataformas nativas usando ferramentas já conhecidas para desenvolvedores com experência em Javascript e React.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;React Native foca na eficiência do desenvolvedor entre as diferentes plataformas suportadas, aplicando o famoso &amp;lsquo;Learn once, write anywhere&amp;rsquo;. O Facebook usa React Native em diversos aplicativos em produção e vai continuar investindo nesta tecnologia.&lt;/p&gt;
 
-&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
+&lt;p&gt;Neste meetup será feita uma introdução ao React Native, o mais novo framework para desenvolvimento de aplicações mobile usando tecnologias web. Funcionamento, tooling, comunidade e comparação com Ionic Framework.&lt;/p&gt;
+
+&lt;h3 id=&#34;alvaro-viebrantz:e3a775d2f9204cea67bb50feec7de274&#34;&gt;Alvaro Viebrantz&lt;/h3&gt;
+
+&lt;p&gt;Desenvolvedor web, focado no backend mas entusiasta de tecnologias de frontend.  Apaixonado por desenvolvimento de aplicativos mobiles usando tanto tecnologias hibridas e nativas. Language Agnostic&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://github.com/alvarowolfx&#34;&gt;@alvarowolfx&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-e-demo:e3a775d2f9204cea67bb50feec7de274&#34;&gt;Slides e Demo&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href=&#34;http://www.slideshare.net/alvarowolfx/react-native-first-impression&#34;&gt;link para os slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Demo: &lt;a href=&#34;https://github.com/alvarowolfx/react-native-shakeit-demo&#34;&gt;link para o demo no github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>FrontInCuiaba 2015</title>
-      <link>http://replace-this-with-your-hugo-site.com/event/frontincuiaba-2015/</link>
+      <link>http://devmt.com.br/event/frontincuiaba-2015/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/event/frontincuiaba-2015/</guid>
+      <guid>http://devmt.com.br/event/frontincuiaba-2015/</guid>
       <description>
 
 &lt;h4 id=&#34;o-evento:fe489912ff0c19351104803f0ca44389&#34;&gt;O Evento&lt;/h4&gt;
@@ -203,73 +181,6 @@ Mostrar a sua empresa para um público grande e interessado em ajudar pode traze
 &lt;h4 id=&#34;mais-informações:fe489912ff0c19351104803f0ca44389&#34;&gt;Mais informações&lt;/h4&gt;
 
 &lt;p&gt;Veja mais detalhes acessando o site do evento em &lt;a href=&#34;http://frontincuiaba.com.br/&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Cool Piece of Code</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/coolcode/</link>
-      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/coolcode/</guid>
-      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
-
-&lt;p&gt;Echo Park fanny pack small batch, Austin kale chips four dollar toast tattooed crucifix flexitarian PBR. Gentrify taxidermy health goth wolf, kale chips four dollar toast messenger bag kogi flannel mustache. Four loko selfies cray, meditation Marfa mumblecore tote bag butcher photo booth. Roof party twee retro hoodie, pork belly put a bird on it Austin taxidermy. Meh quinoa Brooklyn sustainable sartorial. Church-key mustache Blue Bottle Shoreditch XOXO artisan. Mixtape hoodie +1, ethical letterpress chambray authentic skateboard.&lt;/p&gt;
-
-&lt;p&gt;Schlitz small batch four dollar toast, Etsy dreamcatcher roof party irony. Single-origin coffee slow-carb selvage occupy, art party vegan photo booth chambray. Organic whatever Pitchfork, food truck XOXO listicle shabby chic pug migas VHS American Apparel YOLO crucifix kale chips cardigan. Polaroid sustainable church-key, tattooed Blue Bottle ennui tote bag blog umami cray asymmetrical American Apparel pork belly ethical chambray. Meditation skateboard fashion axe Odd Future yr Kickstarter cardigan. Post-ironic Godard meh beard +1, leggings biodiesel cornhole drinking vinegar keytar plaid sartorial migas viral gentrify. Sriracha lumbersexual sustainable, sartorial occupy keytar brunch artisan hella tattooed gluten-free.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Cool Website</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/coolwebsite/</link>
-      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/coolwebsite/</guid>
-      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
-
-&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
-
-&lt;p&gt;Echo Park fanny pack small batch, Austin kale chips four dollar toast tattooed crucifix flexitarian PBR. Gentrify taxidermy health goth wolf, kale chips four dollar toast messenger bag kogi flannel mustache. Four loko selfies cray, meditation Marfa mumblecore tote bag butcher photo booth. Roof party twee retro hoodie, pork belly put a bird on it Austin taxidermy. Meh quinoa Brooklyn sustainable sartorial. Church-key mustache Blue Bottle Shoreditch XOXO artisan. Mixtape hoodie +1, ethical letterpress chambray authentic skateboard.&lt;/p&gt;
-
-&lt;p&gt;Schlitz small batch four dollar toast, Etsy dreamcatcher roof party irony. Single-origin coffee slow-carb selvage occupy, art party vegan photo booth chambray. Organic whatever Pitchfork, food truck XOXO listicle shabby chic pug migas VHS American Apparel YOLO crucifix kale chips cardigan. Polaroid sustainable church-key, tattooed Blue Bottle ennui tote bag blog umami cray asymmetrical American Apparel pork belly ethical chambray. Meditation skateboard fashion axe Odd Future yr Kickstarter cardigan. Post-ironic Godard meh beard +1, leggings biodiesel cornhole drinking vinegar keytar plaid sartorial migas viral gentrify. Sriracha lumbersexual sustainable, sartorial occupy keytar brunch artisan hella tattooed gluten-free.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Material Design Lite theme for Hugo</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/hugotheme/</link>
-      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/hugotheme/</guid>
-      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
-
-&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
-
-&lt;p&gt;Echo Park fanny pack small batch, Austin kale chips four dollar toast tattooed crucifix flexitarian PBR. Gentrify taxidermy health goth wolf, kale chips four dollar toast messenger bag kogi flannel mustache. Four loko selfies cray, meditation Marfa mumblecore tote bag butcher photo booth. Roof party twee retro hoodie, pork belly put a bird on it Austin taxidermy. Meh quinoa Brooklyn sustainable sartorial. Church-key mustache Blue Bottle Shoreditch XOXO artisan. Mixtape hoodie +1, ethical letterpress chambray authentic skateboard.&lt;/p&gt;
-
-&lt;p&gt;Schlitz small batch four dollar toast, Etsy dreamcatcher roof party irony. Single-origin coffee slow-carb selvage occupy, art party vegan photo booth chambray. Organic whatever Pitchfork, food truck XOXO listicle shabby chic pug migas VHS American Apparel YOLO crucifix kale chips cardigan. Polaroid sustainable church-key, tattooed Blue Bottle ennui tote bag blog umami cray asymmetrical American Apparel pork belly ethical chambray. Meditation skateboard fashion axe Odd Future yr Kickstarter cardigan. Post-ironic Godard meh beard +1, leggings biodiesel cornhole drinking vinegar keytar plaid sartorial migas viral gentrify. Sriracha lumbersexual sustainable, sartorial occupy keytar brunch artisan hella tattooed gluten-free.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Another Cool Website</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/myproject/</link>
-      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/myproject/</guid>
-      <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
-
-&lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
-
-&lt;p&gt;Echo Park fanny pack small batch, Austin kale chips four dollar toast tattooed crucifix flexitarian PBR. Gentrify taxidermy health goth wolf, kale chips four dollar toast messenger bag kogi flannel mustache. Four loko selfies cray, meditation Marfa mumblecore tote bag butcher photo booth. Roof party twee retro hoodie, pork belly put a bird on it Austin taxidermy. Meh quinoa Brooklyn sustainable sartorial. Church-key mustache Blue Bottle Shoreditch XOXO artisan. Mixtape hoodie +1, ethical letterpress chambray authentic skateboard.&lt;/p&gt;
-
-&lt;p&gt;Schlitz small batch four dollar toast, Etsy dreamcatcher roof party irony. Single-origin coffee slow-carb selvage occupy, art party vegan photo booth chambray. Organic whatever Pitchfork, food truck XOXO listicle shabby chic pug migas VHS American Apparel YOLO crucifix kale chips cardigan. Polaroid sustainable church-key, tattooed Blue Bottle ennui tote bag blog umami cray asymmetrical American Apparel pork belly ethical chambray. Meditation skateboard fashion axe Odd Future yr Kickstarter cardigan. Post-ironic Godard meh beard +1, leggings biodiesel cornhole drinking vinegar keytar plaid sartorial migas viral gentrify. Sriracha lumbersexual sustainable, sartorial occupy keytar brunch artisan hella tattooed gluten-free.&lt;/p&gt;
 </description>
     </item>
     

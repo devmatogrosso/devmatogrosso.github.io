@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on DevMT - Comunidade de Desenvolvedores de Mato Grosso</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/project/</link>
+    <link>http://localhost:1313/tags/project/</link>
     <description>Recent content in Project on DevMT - Comunidade de Desenvolvedores de Mato Grosso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 05 Oct 2015 02:27:08 +0000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Awesome Collaborative Project</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/collaborativeproject/</link>
+      <link>http://localhost:1313/meetup/collaborativeproject/</link>
       <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/collaborativeproject/</guid>
+      <guid>http://localhost:1313/meetup/collaborativeproject/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -26,13 +26,13 @@
     
     <item>
       <title>Useful Code Snippet</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/snippet/</link>
+      <link>http://localhost:1313/meetup/snippet/</link>
       <pubDate>Mon, 05 Oct 2015 02:24:15 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/snippet/</guid>
+      <guid>http://localhost:1313/meetup/snippet/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -41,13 +41,13 @@
     
     <item>
       <title>A Cool Piece of Code</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/coolcode/</link>
+      <link>http://localhost:1313/meetup/coolcode/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/coolcode/</guid>
+      <guid>http://localhost:1313/meetup/coolcode/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/thumb1.png&#34; alt=&#34;my img&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>A Cool Website</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/coolwebsite/</link>
+      <link>http://localhost:1313/meetup/coolwebsite/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/coolwebsite/</guid>
+      <guid>http://localhost:1313/meetup/coolwebsite/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -76,10 +76,10 @@
     
     <item>
       <title>Another Cool Website</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/myproject/</link>
+      <link>http://localhost:1313/meetup/myproject/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/myproject/</guid>
+      <guid>http://localhost:1313/meetup/myproject/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;
@@ -92,10 +92,10 @@
     
     <item>
       <title>Material Design Lite theme for Hugo</title>
-      <link>http://replace-this-with-your-hugo-site.com/meetup/hugotheme/</link>
+      <link>http://localhost:1313/meetup/hugotheme/</link>
       <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/meetup/hugotheme/</guid>
+      <guid>http://localhost:1313/meetup/hugotheme/</guid>
       <description>&lt;p&gt;Mustache keytar disrupt ugh PBR. Before they sold out Brooklyn pickled, lumbersexual lo-fi mustache hoodie Tumblr Banksy semiotics salvia seitan 8-bit four loko PBR. Readymade mumblecore selfies, forage Schlitz Truffaut Portland PBR&amp;amp;B brunch sustainable chia retro 90&amp;rsquo;s tofu actually. Cold-pressed synth pickled Blue Bottle, chambray photo booth Schlitz Austin leggings distillery. Whatever kogi gastropub hashtag, 90&amp;rsquo;s wayfarers church-key ennui chia actually. Disrupt Bushwick trust fund, bicycle rights umami pork belly sartorial lumbersexual scenester asymmetrical Schlitz. Ugh whatever raw denim taxidermy paleo Kickstarter polaroid, Austin before they sold out iPhone readymade mlkshk mixtape.&lt;/p&gt;
 
 &lt;p&gt;Vegan tote bag flannel, master cleanse American Apparel drinking vinegar banh mi. Cornhole small batch polaroid, Intelligentsia occupy cliche wolf brunch. Brooklyn before they sold out health goth, Banksy fingerstache cray bitters post-ironic lumbersexual. Fixie lo-fi Carles, chambray 8-bit cold-pressed typewriter Echo Park cronut PBR&amp;amp;B polaroid Neutra. Helvetica DIY blog, distillery typewriter VHS High Life listicle. Typewriter aesthetic YOLO brunch literally meh. Twee organic Austin, street art chia jean shorts before they sold out.&lt;/p&gt;

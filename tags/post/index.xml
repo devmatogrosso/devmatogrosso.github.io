@@ -2,60 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on DevMT - Comunidade de Desenvolvedores de Mato Grosso</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/post/</link>
+    <link>http://localhost:1313/tags/post/</link>
     <description>Recent content in Post on DevMT - Comunidade de Desenvolvedores de Mato Grosso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 04 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Meetup React Native</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/meetup-react-native/</link>
-      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      <title>Meetup - React Native First Impressions</title>
+      <link>http://localhost:1313/post/meetup-react-native/</link>
+      <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/meetup-react-native/</guid>
+      <guid>http://localhost:1313/post/meetup-react-native/</guid>
       <description>
 
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type
-specimen book.  It has survived not only five centuries, but also the leap into
-electronic typesetting, remaining essentially unchanged. It was popularised in
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;h2 id=&#34;react-native-first-impressions:e3a775d2f9204cea67bb50feec7de274&#34;&gt;React Native - First Impressions&lt;/h2&gt;
 
-&lt;h3 id=&#34;lorem-ipsum:e3a775d2f9204cea67bb50feec7de274&#34;&gt;Lorem Ipsum&lt;/h3&gt;
+&lt;p&gt;React Native possibilita aos desenvolvedores a construção de aplicativos de alto nível para plataformas nativas usando ferramentas já conhecidas para desenvolvedores com experência em Javascript e React.&lt;/p&gt;
 
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type
-specimen book. It has survived not only five centuries, but also the leap into
-electronic typesetting, remaining essentially unchanged. It was popularised in
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;React Native foca na eficiência do desenvolvedor entre as diferentes plataformas suportadas, aplicando o famoso &amp;lsquo;Learn once, write anywhere&amp;rsquo;. O Facebook usa React Native em diversos aplicativos em produção e vai continuar investindo nesta tecnologia.&lt;/p&gt;
 
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type
-specimen book. It has survived not only five centuries, but also the leap into
-electronic typesetting, remaining essentially unchanged. It was popularised in
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;Neste meetup será feita uma introdução ao React Native, o mais novo framework para desenvolvimento de aplicações mobile usando tecnologias web. Funcionamento, tooling, comunidade e comparação com Ionic Framework.&lt;/p&gt;
 
-&lt;h3 id=&#34;lorem-ipsum-1:e3a775d2f9204cea67bb50feec7de274&#34;&gt;Lorem Ipsum&lt;/h3&gt;
+&lt;h3 id=&#34;alvaro-viebrantz:e3a775d2f9204cea67bb50feec7de274&#34;&gt;Alvaro Viebrantz&lt;/h3&gt;
 
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type
-specimen book. It has survived not only five centuries, but also the leap into
-electronic typesetting, remaining essentially unchanged. It was popularised in
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.&lt;/p&gt;
+&lt;p&gt;Desenvolvedor web, focado no backend mas entusiasta de tecnologias de frontend.  Apaixonado por desenvolvimento de aplicativos mobiles usando tanto tecnologias hibridas e nativas. Language Agnostic&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://github.com/alvarowolfx&#34;&gt;@alvarowolfx&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-e-demo:e3a775d2f9204cea67bb50feec7de274&#34;&gt;Slides e Demo&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href=&#34;http://www.slideshare.net/alvarowolfx/react-native-first-impression&#34;&gt;link para os slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Demo: &lt;a href=&#34;https://github.com/alvarowolfx/react-native-shakeit-demo&#34;&gt;link para o demo no github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -1,8 +1,10 @@
 body::before{
-	background-size: fixed;
-    background-repeat: no-repeat;
-    background-position: top; 
+	background-image: url('/images/background.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+  background-position: top;
 }
+
 body{
   background-color: rgba(211,84,0,1);
 }

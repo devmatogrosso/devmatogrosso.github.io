@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sobre on DevMT - Comunidade de Desenvolvedores de Mato Grosso</title>
-    <link>http://replace-this-with-your-hugo-site.com/categories/sobre/</link>
+    <link>http://devmt.com.br/categories/sobre/</link>
     <description>Recent content in Sobre on DevMT - Comunidade de Desenvolvedores de Mato Grosso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 23 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/categories/sobre/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://devmt.com.br/categories/sobre/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Patrocínio </title>
-      <link>http://replace-this-with-your-hugo-site.com/support/</link>
+      <link>http://devmt.com.br/support/</link>
       <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/support/</guid>
+      <guid>http://devmt.com.br/support/</guid>
       <description>
 
 &lt;h4 id=&#34;patrocínio:e39f786d0e9bcf34ce833b34fbb0c090&#34;&gt;Patrocínio&lt;/h4&gt;
@@ -64,10 +64,10 @@ Mostrar a sua empresa para um público grande e interessado em ajudar pode traze
     
     <item>
       <title>Sobre </title>
-      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <link>http://devmt.com.br/about/</link>
       <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <guid>http://devmt.com.br/about/</guid>
       <description>&lt;p&gt;Este grupo é voltado para trocas de ideais entre profissionais e estudantes da área de tecnologia. Convidamos a todos os entusiastas ou não, seja de qualquer segmento tecnológico; desenvolvimento de software, infraestrutura ou suporte para trocas de experiências, conhecimento, aprender e ensinar. Buscamos melhorar o relacionamento entre os profissionais de tecnologia da nossa região.&lt;/p&gt;
 </description>
     </item>
